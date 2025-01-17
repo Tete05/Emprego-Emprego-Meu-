@@ -1,25 +1,23 @@
-# Emprego-Emprego-Meu-
+# Alimentação Saudável guia
 
 
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Um mini e-book baseado no meu diário
-pessoal sobre relacionamentos no
-ambiente profissional.
+Um e-book sobre alimentação saudável. Que inclui dicas, receitas, e recomendações para ter um estilo de vida saudável.
 
 ## 🤖 Tecnologias Utilizadas
 Chatgpt - Foi utilizado para escrever todo o conteúdo do e-book.
 Canva - Foi utilizado para criar o design do e-book.
-Drive - Foi utilizado para arquivar o e-book em PDF.
-
+MetaAI - Foi utilizado para criar imagens para o e-book.
 ## 🧐 Processo de Criação
-Eu pedi ao Chatgpt para que ele criasse para mim um e-book com o tema primeiro emprego e que fosse descrito como se uma pessoa que trabalha em uma empresa detalhe seus experiências em um dicionário pessoal.
+O Chatgpt criou toda a estrutura do e-book de acordo com um tema e ideias que eu já tinha em mente e repassei para ele. O MetaAI foi usado para criar imagens para por no e-book. E o Canva foi utilizado para projetar todo o e-book.
 
 ## 🚀 Resultados
-Os resultados foram como esperados porém o design do e-book não ficou bom então tive que utilizar o canva para criar o design e a capa
+Os resultados foram melhor do que esperados. Criei um e-book com o tema alimentação saudável, que além de ter sido divertido seu processo também pude expor todo meu conhecimento 
 
 ## 💭 Reflexão (Opcional)
-Foi uma experiência agradável e divertida produzir esse mini projeto!
+Foi uma experiência agradável e divertida produzir esse projeto!
 
-Link do e-book: https://drive.google.com/file/d/1YmM17gMdmSUJ8T2Yom4XkEiRhN1J1n6_/view?usp=drivesdk
+Link do e-book: https://drive.google.com/file/d/1d-shVZv3aiO3to_rTWAoQVGhiJAlRSJc/view?usp=drivesdk
+
+https://drive.google.com/file/d/1YmM17gMdmSUJ8T2Yom4XkEiRhN1J1n6_/view?usp=drivesdk
